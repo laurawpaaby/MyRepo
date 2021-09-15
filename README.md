@@ -4,3 +4,6 @@ A line I wrote on my local computer
 Testing the pushy thing on git
 
 Commiting from R studio 
+
+
+Hilsen fra nettet
